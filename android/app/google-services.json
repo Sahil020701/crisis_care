@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "555240860346",
+    "project_id": "crisisdata-1a747",
+    "storage_bucket": "crisisdata-1a747.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555240860346:android:cfe84f06498ffd1f143083",
+        "android_client_info": {
+          "package_name": "com.example.gpt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555240860346-2jdvdvm0nl1vl8gf3i5p2eaibgc5j9nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6h0AUpKSrkIe2q4Ydzqj-F13xjdgjp3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555240860346-2jdvdvm0nl1vl8gf3i5p2eaibgc5j9nh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version":"1"
+}
